@@ -8,6 +8,15 @@
 # Then the computer will select paper, rock, or scissor.
 # Finally the results are shown. 
 #
+#
+# How-to run game:
+#
+# To run the game, run the command:
+#  python paperRockScissorGUI_template.py
+#
+# Make sure you have the pygame libraries installed.
+#
+#
 
 import pygame
 import random
